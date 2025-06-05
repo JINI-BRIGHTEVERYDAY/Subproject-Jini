@@ -1,4 +1,4 @@
-package ArtPlatform;
+package Project.ArtPlatform;
 
 import java.util.ArrayList;
 import java.util.List;

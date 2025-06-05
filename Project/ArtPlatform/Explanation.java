@@ -1,4 +1,4 @@
-package ArtPlatform;
+package Project.ArtPlatform;
 
 public class Explanation {
     //🎨 미술 전시 플랫폼: 객체지향 미니 프로젝트

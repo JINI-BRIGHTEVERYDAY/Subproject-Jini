@@ -1,4 +1,4 @@
-package ArtPlatform;
+package Project.ArtPlatform;
 
 public class Installation extends ArtWork{
     // Installation 은 ArtWork로부터 상속을 받음

@@ -1,4 +1,4 @@
-package ArtPlatform;
+package Project.ArtPlatform;
 // ArtWork - 추상클래스로 구현
 public abstract class ArtWork {
     protected String title;

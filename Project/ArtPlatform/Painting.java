@@ -1,4 +1,4 @@
-package ArtPlatform;
+package Project.ArtPlatform;
 
 public class Painting extends ArtWork {
     public Painting(String title, String artistName, int year, String style) {
